@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1587545723
+#1587657907
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -20,23 +20,29 @@ images/fxbom2-sheet1.png
 images/fxbom2-sheet2.png
 images/tankshap-sheet0.png
 images/tank2shap-sheet0.png
+images/tankshap2-sheet0.png
 images/camerashap-sheet0.png
 images/shapback.png
 images/tank-sheet0.png
 images/tank2-sheet0.png
 images/shottank1-sheet0.png
 images/shottank2-sheet0.png
-images/btnmap-sheet0.png
+images/tank3-sheet0.png
 images/btnshop-sheet0.png
 images/sprite-sheet0.png
 images/shot-sheet0.png
 images/bkbtn-sheet0.png
 images/habtn-sheet0.png
+images/btnmap-sheet0.png
+images/tank3shot-sheet0.png
+images/tank3artik.png
+images/tank3ra-sheet0.png
 media/1.m4a
 media/1.ogg
 media/5.ogg
 media/gun%20shot%20metalic%202.ogg
 media/dirt_explosion_8.ogg
+media/tank3.ogg
 icon-16.png
 icon-32.png
 icon-114.png
