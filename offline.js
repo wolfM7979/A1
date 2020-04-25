@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1587761607,
+	"version": 1587804267,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,6 +49,7 @@
 		"media/2.ogg",
 		"media/3.ogg",
 		"media/pistol_shoot3.ogg",
+		"media/0.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
