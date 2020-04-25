@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1587804267
+#1587824160
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -7,12 +7,14 @@ offlineClient.js
 images/bkbtn-sheet0.png
 images/habtn-sheet0.png
 images/bkbtn2-sheet0.png
+images/habtn2-sheet0.png
 images/bkchengsh-sheet0.png
 images/bkchengsh-sheet1.png
 images/showshcheng-sheet0.png
 images/chterbar-sheet0.png
 images/tiledbackground.png
 images/tiledbackground2.png
+images/tiledbackground3.png
 images/player-sheet0.png
 images/playersar-sheet0.png
 images/psh1-sheet0.png
@@ -37,10 +39,21 @@ images/war-sheet0.png
 images/objcity-sheet0.png
 images/objcity-sheet1.png
 images/objsim-sheet0.png
-images/objsim-sheet1.png
 images/objtile.png
 images/tilered.png
 images/hel.png
+images/logo-sheet0.png
+images/logo-sheet1.png
+images/logo-sheet2.png
+images/dastoratamoz-sheet0.png
+images/dorclos-sheet0.png
+images/dorc.png
+images/nashangar-sheet0.png
+images/e1sazanda-sheet0.png
+images/najatamam-sheet0.png
+images/najaraar-sheet0.png
+images/btnamuzash-sheet0.png
+images/btnlvl1-sheet0.png
 media/tirbar.ogg
 media/shottank.ogg
 media/moshakd.ogg
