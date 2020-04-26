@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1587824160
+#1587890488
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -15,20 +15,25 @@ images/chterbar-sheet0.png
 images/tiledbackground.png
 images/tiledbackground2.png
 images/tiledbackground3.png
-images/player-sheet0.png
-images/playersar-sheet0.png
-images/psh1-sheet0.png
-images/psh2-sheet0.png
+images/helkopter-sheet0.png
+images/helkopter-sheet1.png
+images/naja-sheet0.png
+images/najastart-sheet0.png
+images/tamam-sheet0.png
+images/n1-sheet0.png
+images/showe1w-sheet0.png
+images/e1stopw-sheet0.png
+images/naja2faza-sheet0.png
 images/fx1-sheet0.png
 images/fx1-sheet1.png
 images/fx1-sheet2.png
+images/player-sheet0.png
 images/playerfaza-sheet0.png
-images/naja-sheet0.png
-images/tamam-sheet0.png
 images/playerfaza2-sheet0.png
-images/najastart-sheet0.png
-images/helkopter-sheet0.png
-images/helkopter-sheet1.png
+images/playersar-sheet0.png
+images/psh1-sheet0.png
+images/psh2-sheet0.png
+images/camera1-sheet0.png
 images/e1-sheet0.png
 images/e1dedd-sheet0.png
 images/e1dedd-sheet1.png
@@ -36,6 +41,7 @@ images/e1dedd-sheet2.png
 images/e1gulula-sheet0.png
 images/e1spowen-sheet0.png
 images/war-sheet0.png
+images/e2sazanda-sheet0.png
 images/objcity-sheet0.png
 images/objcity-sheet1.png
 images/objsim-sheet0.png
@@ -54,6 +60,7 @@ images/najatamam-sheet0.png
 images/najaraar-sheet0.png
 images/btnamuzash-sheet0.png
 images/btnlvl1-sheet0.png
+images/btnlvl2-sheet0.png
 media/tirbar.ogg
 media/shottank.ogg
 media/moshakd.ogg
