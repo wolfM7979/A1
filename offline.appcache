@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1588018150
+#1588086645
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -53,6 +53,16 @@ images/cup-sheet0.png
 images/cdown-sheet0.png
 images/cstop-sheet0.png
 images/ctamam-sheet0.png
+images/c1c-sheet0.png
+images/player1-sheet0.png
+images/player1-sheet1.png
+images/player1-sheet2.png
+images/najanama-sheet0.png
+images/btnshotp2-sheet0.png
+images/gomenu-sheet0.png
+images/b1.png
+images/btnhome-sheet0.png
+images/homeshop-sheet0.png
 images/e1-sheet0.png
 images/e1dedd-sheet0.png
 images/e1dedd-sheet1.png
@@ -69,7 +79,6 @@ images/e3-sheet0.png
 images/e3ded-sheet0.png
 images/e3n1-sheet0.png
 images/objcity-sheet0.png
-images/objcity-sheet1.png
 images/objsim-sheet0.png
 images/objtile.png
 images/tilered.png
@@ -78,6 +87,8 @@ images/fire1.png
 images/fire2.png
 images/namaca-sheet0.png
 images/namaca-sheet1.png
+images/tree-sheet0.png
+images/tree-sheet1.png
 images/logo-sheet0.png
 images/logo-sheet1.png
 images/logo-sheet2.png
