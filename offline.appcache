@@ -1,12 +1,22 @@
 ﻿CACHE MANIFEST
-#1592023432
+#1592209629
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 offlineClient.js
-images/playeranmat-sheet0.png
-images/playeranmat-sheet1.png
-images/playeranmat-sheet2.png
+images/gun10-sheet0.png
+images/gunbk1-sheet0.png
+images/gunbk1-sheet1.png
+images/gunbk1-sheet2.png
+images/gunbk2-sheet0.png
+images/playeramuzash-sheet0.png
+images/playeramuzash-sheet1.png
+images/playeramuzash-sheet2.png
+images/am1-sheet0.png
+images/bkam-sheet0.png
+images/harakatha-sheet0.png
+images/am3-sheet0.png
+images/am4-sheet0.png
 images/playersolid-sheet0.png
 images/shot-sheet0.png
 images/playerz-sheet0.png
@@ -40,6 +50,10 @@ images/playerhelath-sheet0.png
 images/enamy1-sheet0.png
 images/enamy1fx.png
 images/shorenamy1-sheet0.png
+images/stopenamy-sheet0.png
+images/mapbk.png
+images/map-sheet0.png
+images/btnlvl5-sheet0.png
 media/gun%20shot%201.ogg
 media/gun%20slide%20single%202.m4a
 media/gun%20slide%20single%20.ogg
