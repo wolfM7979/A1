@@ -1,10 +1,11 @@
 ﻿{
-	"version": 1592209629,
+	"version": 1592291432,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
+		"images/addgun-sheet0.png",
 		"images/gun10-sheet0.png",
 		"images/gunbk1-sheet0.png",
 		"images/gunbk1-sheet1.png",
@@ -18,6 +19,8 @@
 		"images/harakatha-sheet0.png",
 		"images/am3-sheet0.png",
 		"images/am4-sheet0.png",
+		"images/helekupter-sheet0.png",
+		"images/start-sheet0.png",
 		"images/playersolid-sheet0.png",
 		"images/shot-sheet0.png",
 		"images/playerz-sheet0.png",
