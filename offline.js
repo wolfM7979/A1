@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1592291432,
+	"version": 1592303767,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,6 +29,14 @@
 		"images/menubk.png",
 		"images/btnstart-sheet0.png",
 		"images/bkfxmenu-sheet0.png",
+		"images/shopbtn-sheet0.png",
+		"images/bkshop-sheet0.png",
+		"images/gun1k-sheet0.png",
+		"images/gun2k-sheet0.png",
+		"images/gun3k-sheet0.png",
+		"images/gun4k-sheet0.png",
+		"images/gun5k-sheet0.png",
+		"images/gun6k-sheet0.png",
 		"images/tiledbackground.png",
 		"images/bk1-sheet0.png",
 		"images/bk2-sheet0.png",
